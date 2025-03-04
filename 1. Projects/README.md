@@ -4,7 +4,7 @@ This folder contains iOS applications built using Swift and SwiftUI. Each projec
 
 ## 📌 Projects  
 
-### **1. To-Do List App**  
+### **1.1 - To-Do List App**  
 📂 **Folder:** `ToDoListApp`  
 📝 **Description:** A simple to-do list app using SwiftUI and CoreData for persistent storage.  
 🔹 **Key Features:**  
@@ -12,7 +12,7 @@ This folder contains iOS applications built using Swift and SwiftUI. Each projec
 - Persistent data storage using CoreData  
 - Simple and clean UI  
 
-### **2. Weather App**  
+### **1.2 - Weather App**  
 📂 **Folder:** `WeatherApp`  
 📝 **Description:** A weather forecasting app that fetches real-time weather data using an API.  
 🔹 **Key Features:**  
@@ -20,7 +20,7 @@ This folder contains iOS applications built using Swift and SwiftUI. Each projec
 - Displays temperature, humidity, and forecast  
 - Supports location-based weather updates  
 
-### **3. Expense Tracker**  
+### **1.3 - Expense Tracker**  
 📂 **Folder:** `ExpenseTracker`  
 📝 **Description:** A personal finance app to track daily expenses and generate spending reports.  
 🔹 **Key Features:**  
