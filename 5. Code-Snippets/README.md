@@ -1,21 +1,12 @@
-# Swift & SwiftUI Code Snippets  
+# Code Snippets  
 
-This folder contains reusable Swift and SwiftUI code snippets to simplify common tasks in iOS development.  
+This folder contains reusable Swift and SwiftUI code snippets for iOS development. These snippets help streamline development by providing pre-written solutions for common tasks.  
 
-## 📌 Snippets  
+## 📌 Contents  
 
-### **1. Networking Request (URLSession)**  
-📂 **File:** `NetworkingRequest.swift`  
-📝 **Description:** A simple Swift networking request using `URLSession` to fetch JSON data from an API.  
+- **Networking/** → API calls, URLSession usage  
+- **UI Components/** → Custom buttons, alerts, and reusable views  
+- **Data Handling/** → CoreData, UserDefaults, and JSON parsing  
+- **Animations/** → Smooth UI animations with SwiftUI  
 
-### **2. UserDefaults Helper**  
-📂 **File:** `UserDefaultsHelper.swift`  
-📝 **Description:** A small utility class for reading and writing user preferences using `UserDefaults`.  
-
-### **3. SwiftUI Custom Button**  
-📂 **File:** `CustomSwiftUIButton.swift`  
-📝 **Description:** A custom SwiftUI button with gradient styling and animations.  
-
----
-
-🔹 *These snippets are designed to be easily copied and used in iOS projects.*
+📂 Files are organized in `.swift` format for easy copying and pasting.
