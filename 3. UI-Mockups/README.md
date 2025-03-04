@@ -1,24 +1,13 @@
 # UI Mockups  
 
-This folder contains UI designs and mockups for iOS applications. Each design is created using Figma or Photoshop and serves as a reference for building iOS apps.  
+This folder contains UI designs, wireframes, and prototypes for iOS applications. These mockups help visualize the app's layout, user interactions, and overall design before development.  
 
-## 📌 UI Design Showcase  
+## 📌 Subfolders  
 
-### **1. E-Commerce App UI**  
-📂 **Folder:** `EcommerceApp_UI`  
-🖼 **Preview:** [Figma Link or Image]  
-🔹 **Description:** A modern e-commerce app UI with a focus on user experience and smooth navigation.  
+- **Wireframes/** → Low-fidelity sketches outlining app structure  
+- **High-Fidelity/** → Detailed UI designs with colors, typography, and components  
+- **Prototypes/** → Interactive mockups showcasing app flow and animations  
 
-### **2. Social Media App UI**  
-📂 **Folder:** `SocialMediaApp_UI`  
-🖼 **Preview:** [Figma Link or Image]  
-🔹 **Description:** A social media app mockup with an engaging feed, user profiles, and messaging features.  
+Each subfolder contains designs for different iOS apps, including the **To-Do List App, Weather App, and Expense Tracker.**  
 
-### **3. Fitness Tracker UI**  
-📂 **Folder:** `FitnessTracker_UI`  
-🖼 **Preview:** [Figma Link or Image]  
-🔹 **Description:** A fitness tracking app UI with dashboards for step count, calories burned, and progress tracking.  
-
----
-
-🔹 *Each mockup includes a dedicated README file with design details and inspiration sources.*
+📂 Files are provided in `.png`, `.fig`, `.xd`, or `.mov` formats.
