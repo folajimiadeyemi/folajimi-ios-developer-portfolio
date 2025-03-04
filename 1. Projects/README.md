@@ -1,19 +1,33 @@
 # iOS Projects  
 
-This folder contains various iOS-related projects showcasing different aspects of iOS development, including Swift programming, app architecture, and UI design.  
+This folder contains iOS applications built using Swift and SwiftUI. Each project includes source code, explanations, and key features.  
 
 ## 📌 Projects  
 
-### **1. Simple MVC Project**  
-📂 **File:** `SimpleMVCProject.swift`  
-📝 **Description:** A small demonstration of the Model-View-Controller (MVC) architecture in Swift, simulating how data, UI, and logic interact.  
+### **1. To-Do List App**  
+📂 **Folder:** `ToDoListApp`  
+📝 **Description:** A simple to-do list app using SwiftUI and CoreData for persistent storage.  
+🔹 **Key Features:**  
+- Add, edit, and delete tasks  
+- Persistent data storage using CoreData  
+- Simple and clean UI  
 
-### **2. Basic SwiftUI View**  
-📂 **File:** `SimpleSwiftUIView.swift`  
-📝 **Description:** A basic SwiftUI view with a `VStack`, a `Text` element, and simple styling to demonstrate SwiftUI fundamentals.  
+### **2. Weather App**  
+📂 **Folder:** `WeatherApp`  
+📝 **Description:** A weather forecasting app that fetches real-time weather data using an API.  
+🔹 **Key Features:**  
+- Fetches weather data using `URLSession`  
+- Displays temperature, humidity, and forecast  
+- Supports location-based weather updates  
 
-More projects will be added over time to showcase different aspects of iOS development.  
+### **3. Expense Tracker**  
+📂 **Folder:** `ExpenseTracker`  
+📝 **Description:** A personal finance app to track daily expenses and generate spending reports.  
+🔹 **Key Features:**  
+- Categorizes expenses (Food, Transport, etc.)  
+- Displays spending trends using Swift Charts  
+- Uses CoreData for storage  
 
 ---
 
-🔹 *Each project is structured for clarity and learning purposes. Feel free to explore the code and experiment!*
+🔹 *Each project includes a dedicated README file with setup instructions and screenshots.*
