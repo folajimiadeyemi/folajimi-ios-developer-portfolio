@@ -1,5 +1,8 @@
-## 📸 Screenshots  
+# 📸 Screenshots  
 
-| App Screen | Preview |
-|------------|---------|
-| Main Screen | ![Main Screen](Screenshots/Weatherapp.jpg) |
+This folder contains screenshots of the Weather App.  
+
+## Included Screens  
+- Home Screen  
+- Search Screen  
+- Details Screen
