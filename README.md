@@ -5,9 +5,7 @@ Welcome to my iOS Developer Portfolio! This repository showcases my expertise in
 ## 📌 Repository Structure  
 
 - **Projects/** → Fully developed iOS applications with detailed documentation.  
-- **Playgrounds/** → Experimentation with Swift features, algorithms, and concepts.  
-- **UI-Mockups/** → UI designs and prototypes built with SwiftUI.  
-- **Resources/** → Learning materials, reusable assets, and code snippets.  
+- **Playgrounds/** → Experimentation with Swift features, algorithms, and concepts.    
 
 ### 🚀 Highlights  
 ✅ **Swift & SwiftUI Expertise** – Demonstrating clean and scalable code.  
